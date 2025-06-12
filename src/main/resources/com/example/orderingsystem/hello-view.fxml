@@ -58,6 +58,13 @@
                   <Label style="-fx-font-size: 16px; -fx-font-weight: bold;" text="Burger" />
                </VBox>
 
+               <VBox alignment="CENTER" prefWidth="160" style="-fx-background-color: #f9f9f9; -fx-border-color: black; -fx-border-width: 1px; -fx-border-radius: 10px; -fx-background-radius: 10px; -fx-padding: 10px;">
+                  <ImageView fitHeight="100" fitWidth="100" preserveRatio="true">
+
+                  </ImageView>
+                  <Label style="-fx-font-size: 16px; -fx-font-weight: bold;" text="Jolly Spaghetti" />
+               </VBox>
+
                <!-- Categories as needed -->
             </VBox>
          </content>
