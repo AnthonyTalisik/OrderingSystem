@@ -28,104 +28,95 @@
             <FlowPane prefWrapLength="430.0" style="-fx-padding: 10;">
                <!-- VBox Menu Cards -->
                <!-- First 3 cards -->
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 10px 0 0 0; -fx-background-color: #f9f9f9;">
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 10px 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast1.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px;-fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast1" />
+                  <Label style="-fx-font-size: 13px;-fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Longganisa" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 152.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 0 0 0; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 10px 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast2.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px;-fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast2" />
+                  <Label style="-fx-font-size: 13px;-fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Beef Tapa" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 152.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 10px 0 0; -fx-background-color: #f9f9f9;">
+
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 10px 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast3.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast3" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Corned Beef" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 152.00" />
                </VBox>
 
                <!-- Below the first three cards -->
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast4.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="1 - pc Breakfast&#10;     Chickenjoy" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 155.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 0 0 0; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 0 0 0; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast5.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 25 0; -fx-font-weight: bold;" text="Breakfast Burger Steak" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 136.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast6.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 25 0; -fx-font-weight: bold;" text="Breakfast Hotdog" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 108.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast7.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 25 0; -fx-font-weight: bold;" text="2 - pc Pancakes" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 87.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 0 0 0; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast8.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Bacon, Egg, &amp; Cheese&#10;    Pancake Sandwich" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 104.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
+
+               <VBox spacing="1" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
                   <ImageView fitWidth="120" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/logo.jpg" />
+                        <Image url="@../../../image/Breakfast9.png" />
                      </image>
                   </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Bacon, Egg, &amp; Cheese&#10;   Sandwich" />
+                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 1 0; -fx-font-weight: bold;" text="Starts at P 99.00" />
                </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
-                  <ImageView fitWidth="120" preserveRatio="true">
-                     <image>
-                        <Image url="@../../../image/logo.jpg" />
-                     </image>
-                  </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
-               </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 0 0 0; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
-                  <ImageView fitWidth="120" preserveRatio="true">
-                     <image>
-                        <Image url="@../../../image/logo.jpg" />
-                     </image>
-                  </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
-               </VBox>
-               <VBox spacing="20" alignment="BOTTOM_CENTER" prefHeight="180.0" prefWidth="150.0" style="-fx-border-color: black; -fx-border-width: 1px 1px 0 1px; -fx-border-radius: 0 0 0 0; -fx-background-color: #f9f9f9;">
-                  <ImageView fitWidth="120" preserveRatio="true">
-                     <image>
-                        <Image url="@../../../image/logo.jpg" />
-                     </image>
-                  </ImageView>
-                  <Label style="-fx-font-size: 13px; -fx-padding: 0 0 8 0; -fx-font-weight: bold;" text="Breakfast4" />
-               </VBox>
+
+
 
             </FlowPane>
          </content>
